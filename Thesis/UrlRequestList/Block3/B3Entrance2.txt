@@ -1,0 +1,11 @@
+https://maps.googleapis.com/maps/api/distancematrix/json?key=YOUR_API_KEY&destinations=37.47511896%2C15.03716658&origins=37.50630334%2C15.08558828
+https://maps.googleapis.com/maps/api/distancematrix/json?key=YOUR_API_KEY&destinations=37.47511896%2C15.05330715&origins=37.50630334%2C15.08558828
+https://maps.googleapis.com/maps/api/distancematrix/json?key=YOUR_API_KEY&destinations=37.47511896%2C15.06944772&origins=37.50630334%2C15.08558828
+https://maps.googleapis.com/maps/api/distancematrix/json?key=YOUR_API_KEY&destinations=37.47511896%2C15.08558828&origins=37.50630334%2C15.08558828
+https://maps.googleapis.com/maps/api/distancematrix/json?key=YOUR_API_KEY&destinations=37.49071115%2C15.03716658&origins=37.50630334%2C15.08558828
+https://maps.googleapis.com/maps/api/distancematrix/json?key=YOUR_API_KEY&destinations=37.49071115%2C15.05330715&origins=37.50630334%2C15.08558828
+https://maps.googleapis.com/maps/api/distancematrix/json?key=YOUR_API_KEY&destinations=37.49071115%2C15.06944772&origins=37.50630334%2C15.08558828
+https://maps.googleapis.com/maps/api/distancematrix/json?key=YOUR_API_KEY&destinations=37.49071115%2C15.08558828&origins=37.50630334%2C15.08558828
+https://maps.googleapis.com/maps/api/distancematrix/json?key=YOUR_API_KEY&destinations=37.50630334%2C15.03716658&origins=37.50630334%2C15.08558828
+https://maps.googleapis.com/maps/api/distancematrix/json?key=YOUR_API_KEY&destinations=37.50630334%2C15.05330715&origins=37.50630334%2C15.08558828
+https://maps.googleapis.com/maps/api/distancematrix/json?key=YOUR_API_KEY&destinations=37.50630334%2C15.06944772&origins=37.50630334%2C15.08558828
